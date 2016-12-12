@@ -15,11 +15,17 @@
 
 * [http://guides.rubygems.org/ssl-certificate-update/](http://guides.rubygems.org/ssl-certificate-update/)
 
+## DevKit
+
+* http://rubyinstaller.org/downloads
+
+## ZeroMQ
+
+* http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe
+
 ## SciRuby
 
-* https://github.com/SciRuby/iruby
-
-
+* [https://github.com/SciRuby/iruby](https://github.com/SciRuby/iruby)
 
 
 
