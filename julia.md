@@ -4,11 +4,12 @@
 
 # Jupyter Setup
 
-* 
+
 
 # Julia
 
 * [http://julialang.org/](http://julialang.org/)
+
 
 
 
