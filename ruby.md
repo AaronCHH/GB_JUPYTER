@@ -15,16 +15,16 @@
 
 * [https://github.com/SciRuby/iruby](https://github.com/SciRuby/iruby)
 
-## SSL Certificate Updates
+### SSL Certificate Updates
 
 * [http://guides.rubygems.org/ssl-certificate-update/](http://guides.rubygems.org/ssl-certificate-update/)
 
-## DevKit
+### DevKit
 
 * [http://rubyinstaller.org/downloads](http://rubyinstaller.org/downloads)
 * Note. Anaconda built-in
 
-## ZeroMQ
+### ZeroMQ
 
 * [http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe](http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe)
 * [http://zeromq.org/area:download](http://zeromq.org/area:download)
