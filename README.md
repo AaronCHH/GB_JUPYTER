@@ -1,6 +1,4 @@
-# GB\_JUPYTER
-
-add something here.
+# Things about Juypter
 
 
 
