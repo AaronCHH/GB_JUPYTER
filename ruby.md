@@ -1,5 +1,5 @@
 
-<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
+<!-- toc -->
 
 - [Download](#download)
 	- [Ruby](#ruby)
