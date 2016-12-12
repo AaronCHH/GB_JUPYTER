@@ -8,8 +8,12 @@
 
 # Julia Plot
 
-* http://julialang.org/downloads/plotting.html
-* https://github.com/GiovineItalia/Gadfly.jl
+* [http://julialang.org/downloads/plotting.html](http://julialang.org/downloads/plotting.html)
+* [https://github.com/GiovineItalia/Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl)
+
+# Julia Example
+
+* https://juliabyexample.helpmanual.io/
 
 # Julia
 
