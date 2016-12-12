@@ -15,6 +15,11 @@
 
 * [http://guides.rubygems.org/ssl-certificate-update/](http://guides.rubygems.org/ssl-certificate-update/)
 
+## SciRuby
+
+* https://github.com/SciRuby/iruby
+
+
 
 
 
