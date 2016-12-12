@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [RUBY](ruby.md)
 * [JULIA](julia.md)
-* R
+* [R](r.md)
 * [MATLAB](matlab.md)
+* [COMPILATION](complation.md)
 
