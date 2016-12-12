@@ -13,5 +13,8 @@
 
 ## SSL Certificate Updates
 
+* [http://guides.rubygems.org/ssl-certificate-update/](http://guides.rubygems.org/ssl-certificate-update/)
+
+
 
 
