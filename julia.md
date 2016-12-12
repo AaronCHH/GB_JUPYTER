@@ -1,3 +1,5 @@
+<!-- toc -->
+
 # Download
 
 * [http://julialang.org/downloads/](http://julialang.org/downloads/)
