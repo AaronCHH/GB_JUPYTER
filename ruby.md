@@ -17,11 +17,12 @@
 
 ## DevKit
 
-* http://rubyinstaller.org/downloads
+* [http://rubyinstaller.org/downloads](http://rubyinstaller.org/downloads)
 
 ## ZeroMQ
 
-* http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe
+* [http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe](http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe)
+* http://zeromq.org/area:download
 
 ## SciRuby
 
