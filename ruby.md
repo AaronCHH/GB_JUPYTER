@@ -12,7 +12,6 @@
 - [Ruby](#ruby-1)
 
 <!-- tocstop -->
-
 # Download
 
 ## Ruby
