@@ -1,3 +1,17 @@
+
+<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
+
+- [Download](#download)
+	- [Ruby](#ruby)
+	- [Ruby & Rails Bundle](#ruby-rails-bundle)
+- [Jupyter Setup](#jupyter-setup)
+	- [SciRuby](#sciruby)
+		- [SSL Certificate Updates](#ssl-certificate-updates)
+		- [DevKit](#devkit)
+		- [ZeroMQ](#zeromq)
+
+<!-- tocstop -->
+
 # Download
 
 ## Ruby
@@ -29,7 +43,4 @@
 * [http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe](http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe)
 * [http://zeromq.org/area:download](http://zeromq.org/area:download)
 
-## 
-
-
-
+##
