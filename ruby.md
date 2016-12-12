@@ -32,9 +32,7 @@
 # Ruby
 
 * [https://www.ruby-lang.org/en/](https://www.ruby-lang.org/en/)
-
 * [https://www.ruby-lang.org/zh\\_tw/](https://www.ruby-lang.org/zh\_tw/)
-
 
 
 
