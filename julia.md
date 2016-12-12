@@ -1,11 +1,3 @@
-<!-- toc -->
-
-- [Download](#download)
-- [Jupyter Setup](#jupyter-setup)
-- [Julia](#julia)
-
-<!-- tocstop -->
-
 # Download
 
 * [http://julialang.org/downloads/](http://julialang.org/downloads/)
