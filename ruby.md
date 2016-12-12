@@ -7,6 +7,7 @@
 ## Ruby & Rails Bundle
 
 * [http://railsinstaller.org/en](http://railsinstaller.org/en)
+* https://bitnami.com/stack/ruby
 
 # Jupyter Setup
 
