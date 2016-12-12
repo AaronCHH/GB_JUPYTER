@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* RUBY
+* [RUBY](ruby.md)
 * JULIA
 * R
 * MATLAB
